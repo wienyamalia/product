@@ -14,9 +14,9 @@ const storage = new Storage({
 });
 
 const dbConfig = {
-    host: 'localhost',
+    host: '34.28.108.156',
     user: 'root', // Ganti dengan username database Anda
-    password: '', // Ganti dengan password database Anda
+    password: '123', // Ganti dengan password database Anda
     database: 'products', // Ganti dengan nama database Anda
 };
 
